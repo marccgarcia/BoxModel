@@ -45,7 +45,7 @@ h1{
 }
 .papa{
     border: 1px solid black;
-    width: 60%;
+    width: 50%;
     font-size: 30px;
     border-radius: 10px 10px 10px 10px;
     background-color: white;
@@ -53,11 +53,11 @@ h1{
 }
 .responde{
     border: 1px solid black;
-    width: 60%;
+    width: 50%;
     font-size: 30px;
     border-radius: 10px 10px 10px 10px;
     background-color: rgba(96, 204, 74, 0.76);
     padding-right: 15px;
-    margin-left: 35%;
+    margin-left: 20%;
     text-align: right;
 }
